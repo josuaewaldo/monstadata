@@ -1,0 +1,41 @@
+{
+  "manga_id": "manga_adpr_001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "The Peerless Dragonslayer's Return",
+  "status": "Ongoing",
+  "author": "Bujeon",
+  "artist": "Namo",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah membunuh Raja Naga yang menghancurkan dunia, pahlawan kita mendapati dirinya kembali ke masa lalu sebelum malapetaka itu terjadi. Dengan ingatan dan pengalaman dari kehidupan sebelumnya, ia bersumpah untuk mengubah takdir dan melindungi orang-orang yang ia cintai dari ancaman naga yang akan datang.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/covers/adpr_cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The End and The Beginning",
+      "cbz_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch001.cbz",
+      "pages": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch001/page_01.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch001/page_02.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch001/page_03.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Awakening of the Sword Aura",
+      "cbz_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch002.cbz",
+      "pages": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch002/page_01.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch002/page_02.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/comics/adpr/ch002/page_03.jpg"
+      ]
+    }
+  ]
+}
